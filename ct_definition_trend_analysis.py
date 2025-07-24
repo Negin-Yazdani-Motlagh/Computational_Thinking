@@ -37,7 +37,7 @@ def parse_definition_entry(text):
 
 # === ANALYZE DEFINITIONS USING OPENAI ===
 def analyze_definitions(definitions):
-    prompt = "You are an education researcher. Below are multiple definitions of Computational Thinking (CT) from academic papers between 2006 and 2024. Your task is to:\n"
+    prompt = "You are an education researcher. Below are multiple definitions of Computational Thinking (CT) from academic papers between 2006 and 2025. Your task is to:\n"
     prompt += "- Identify recurring themes (e.g., abstraction, algorithm, modeling, problem solving)\n"
     prompt += "- Highlight how definitions have evolved over time (if dates are provided)\n"
     prompt += "- Give a short summary of what CT generally means across these definitions\n\n"
@@ -50,7 +50,7 @@ def analyze_definitions(definitions):
     ]
 
     response = openai.ChatCompletion.create(
-        model="gpt-4",
+        model="gpt-4o",
         messages=messages,
         temperature=0.4,
         max_tokens=1500
