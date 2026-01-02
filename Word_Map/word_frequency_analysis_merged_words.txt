@@ -1,0 +1,182 @@
+================================================================================
+MERGED WORDS - COMPLETE LIST
+================================================================================
+
+This file shows all word variants that were merged into canonical forms.
+
+STEP 2: WORDS MERGED AFTER INITIAL PROCESSING
+--------------------------------------------------------------------------------
+Total canonical forms: 17
+
+Canonical Form: computation
+  Total Frequency: 458
+  Variants (12):
+    - computational                  (freq: 232)
+    - computer                       (freq: 149)
+    - computers                      (freq: 35)
+    - computing                      (freq: 25)
+    - computable                     (freq: 5)
+    - computation                    (freq: 4)
+    - computations                   (freq: 3)
+    - computing1                     (freq: 1)
+    - comput                         (freq: 1)
+    - computationally                (freq: 1)
+    - computationalthinkers          (freq: 1)
+    - computa                        (freq: 1)
+
+Canonical Form: algorithm
+  Total Frequency: 78
+  Variants (5):
+    - algorithmic                    (freq: 33)
+    - algorithms                     (freq: 28)
+    - algorithm                      (freq: 9)
+    - algorithmically                (freq: 7)
+    - algor                          (freq: 1)
+
+Canonical Form: abstraction
+  Total Frequency: 65
+  Variants (5):
+    - abstraction                    (freq: 47)
+    - abstractions                   (freq: 13)
+    - abstract                       (freq: 3)
+    - abstracting                    (freq: 1)
+    - abstrac                        (freq: 1)
+
+Canonical Form: representation
+  Total Frequency: 51
+  Variants (6):
+    - represented                    (freq: 23)
+    - representing                   (freq: 9)
+    - representation                 (freq: 8)
+    - representations                (freq: 4)
+    - represents                     (freq: 4)
+    - represent                      (freq: 3)
+
+Canonical Form: program
+  Total Frequency: 47
+  Variants (4):
+    - programming                    (freq: 32)
+    - program                        (freq: 8)
+    - programs                       (freq: 6)
+    - programmers                    (freq: 1)
+
+Canonical Form: decomposition
+  Total Frequency: 38
+  Variants (8):
+    - decomposition                  (freq: 30)
+    - decompose                      (freq: 2)
+    - decompositions                 (freq: 1)
+    - decomposi                      (freq: 1)
+    - deconstruct                    (freq: 1)
+    - deconstruction                 (freq: 1)
+    - deconstructs                   (freq: 1)
+    - decomposing                    (freq: 1)
+
+Canonical Form: analyze
+  Total Frequency: 34
+  Variants (8):
+    - analyze                        (freq: 12)
+    - analytical                     (freq: 8)
+    - analysis                       (freq: 6)
+    - analysing                      (freq: 4)
+    - analytic                       (freq: 1)
+    - analytically                   (freq: 1)
+    - analysed                       (freq: 1)
+    - analyzes                       (freq: 1)
+
+Canonical Form: pattern-recognition
+  Total Frequency: 30
+  Variants (3):
+    - pattern                        (freq: 12)
+    - recognition                    (freq: 10)
+    - patterns                       (freq: 8)
+
+Canonical Form: recursion
+  Total Frequency: 27
+  Variants (8):
+    - iteration                      (freq: 8)
+    - iterative                      (freq: 7)
+    - recursion                      (freq: 4)
+    - recursive                      (freq: 4)
+    - recurrent                      (freq: 1)
+    - recur                          (freq: 1)
+    - iteratively                    (freq: 1)
+    - recursively                    (freq: 1)
+
+Canonical Form: generalization
+  Total Frequency: 25
+  Variants (5):
+    - generalization                 (freq: 12)
+    - generalizations                (freq: 5)
+    - generalizing                   (freq: 4)
+    - generalized                    (freq: 2)
+    - generalize                     (freq: 2)
+
+Canonical Form: automation
+  Total Frequency: 23
+  Variants (9):
+    - automated                      (freq: 5)
+    - automation                     (freq: 4)
+    - automating                     (freq: 4)
+    - automate                       (freq: 4)
+    - auto                           (freq: 2)
+    - automatization                 (freq: 1)
+    - automatically                  (freq: 1)
+    - automatable                    (freq: 1)
+    - automat                        (freq: 1)
+
+Canonical Form: efficiency
+  Total Frequency: 17
+  Variants (3):
+    - efficient                      (freq: 8)
+    - efficiently                    (freq: 5)
+    - efficiency                     (freq: 4)
+
+Canonical Form: simulation
+  Total Frequency: 15
+  Variants (3):
+    - simulation                     (freq: 8)
+    - simulations                    (freq: 6)
+    - simulating                     (freq: 1)
+
+Canonical Form: execute
+  Total Frequency: 9
+  Variants (3):
+    - execute                        (freq: 6)
+    - executed                       (freq: 2)
+    - execution                      (freq: 1)
+
+Canonical Form: sequence
+  Total Frequency: 8
+  Variants (3):
+    - sequences                      (freq: 4)
+    - sequence                       (freq: 2)
+    - sequencing                     (freq: 2)
+
+Canonical Form: optimization
+  Total Frequency: 3
+  Variants (3):
+    - maximi                         (freq: 1)
+    - minimum                        (freq: 1)
+    - optimize                       (freq: 1)
+
+Canonical Form: operationalization
+  Total Frequency: 2
+  Variants (2):
+    - operationalized                (freq: 1)
+    - operationalised                (freq: 1)
+
+
+
+STEP 3: WORDS MERGED AFTER STEMMING
+--------------------------------------------------------------------------------
+Total canonical forms: 0
+
+
+================================================================================
+SUMMARY
+================================================================================
+Total canonical forms in Step 2: 17
+Total canonical forms in Step 3: 0
+Total frequency merged in Step 2: 930
+Total frequency merged in Step 3: 0
