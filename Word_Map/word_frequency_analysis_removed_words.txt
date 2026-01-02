@@ -1,0 +1,1801 @@
+================================================================================
+REMOVED WORDS - COMPLETE LIST
+================================================================================
+
+STEP 2: WORDS REMOVED AFTER MERGING
+--------------------------------------------------------------------------------
+Total removed: 825 unique words
+Total frequency removed: 9,187
+
+Rank     Word                                     Frequency   
+--------------------------------------------------------------------------------
+1        and                                      664         
+2        the                                      520         
+3        to                                       415         
+4        of                                       344         
+5        in                                       327         
+6        that                                     272         
+7        ct                                       257         
+8        as                                       214         
+9        wing                                     207         
+10       problems                                 189         
+11       is                                       164         
+12       by                                       152         
+13       problem                                  140         
+14       solving                                  138         
+15       can                                      113         
+16       for                                      113         
+17       solutions                                98          
+18       be                                       92          
+19       science                                  89          
+20       on                                       83          
+21       it                                       79          
+22       et                                       77          
+23       al                                       77          
+24       an                                       74          
+25       skills                                   68          
+26       human                                    66          
+27       are                                      65          
+28       process                                  64          
+29       with                                     59          
+30       processes                                56          
+31       fundamental                              56          
+32       way                                      54          
+33       or                                       50          
+34       solve                                    50          
+35       their                                    49          
+36       not                                      48          
+37       such                                     46          
+38       understanding                            46          
+39       thought                                  45          
+40       formulating                              44          
+41       this                                     44          
+42       designing                                42          
+43       out                                      40          
+44       definition                               38          
+45       use                                      36          
+46       so                                       36          
+47       was                                      36          
+48       using                                    36          
+49       which                                    35          
+50       skill                                    35          
+51       set                                      33          
+52       behavior                                 33          
+53       we                                       33          
+54       they                                     32          
+55       solution                                 31          
+56       design                                   31          
+57       from                                     30          
+58       how                                      27          
+59       into                                     26          
+60       approach                                 25          
+61       these                                    25          
+62       through                                  24          
+63       has                                      24          
+64       form                                     24          
+65       everyone                                 23          
+66       complex                                  23          
+67       what                                     23          
+68       have                                     23          
+69       understand                               22          
+70       iste                                     22          
+71       think                                    22          
+72       according                                21          
+73       its                                      21          
+74       based                                    21          
+75       about                                    20          
+76       also                                     20          
+77       them                                     20          
+78       one                                      19          
+79       world                                    19          
+80       shute                                    19          
+81       jeannette                                18          
+82       must                                     18          
+83       been                                     17          
+84       study                                    17          
+85       de                                       17          
+86       more                                     17          
+87       used                                     16          
+88       but                                      16          
+89       most                                     16          
+90       machine                                  16          
+91       pea                                      16          
+92       barr                                     15          
+93       do                                       15          
+94       just                                     15          
+95       csta                                     15          
+96       term                                     15          
+97       technology                               15          
+98       other                                    15          
+99       should                                   14          
+100      only                                     14          
+101      society                                  14          
+102      method                                   14          
+103      who                                      13          
+104      concept                                  13          
+105      then                                     13          
+106      than                                     13          
+107      behaviour                                13          
+108      while                                    12          
+109      following                                12          
+110      carry                                    12          
+111      framework                                12          
+112      papert                                   12          
+113      develop                                  12          
+114      identify                                 12          
+115      formulate                                12          
+116      include                                  12          
+117      learn                                    12          
+118      there                                    11          
+119      stephenson                               11          
+120      all                                      11          
+121      real                                     11          
+122      us                                       11          
+123      four                                     11          
+124      need                                     11          
+125      operational                              11          
+126      knowledge                                11          
+127      work                                     11          
+128      brennan                                  11          
+129      new                                      11          
+130      many                                     11          
+131      evaluation                               11          
+132      general                                  10          
+133      effective                                10          
+134      different                                10          
+135      century                                  10          
+136      help                                     10          
+137      first                                    10          
+138      ned                                      10          
+139      weintrop                                 10          
+140      various                                  9           
+141      three                                    9           
+142      research                                 9           
+143      cs                                       9           
+144      cuny                                     9           
+145      could                                    9           
+146      order                                    9           
+147      apply                                    9           
+148      at                                       9           
+149      paper                                    9           
+150      she                                      9           
+151      when                                     8           
+152      series                                   8           
+153      ways                                     8           
+154      dimension                                8           
+155      literacy                                 8           
+156      her                                      8           
+157      since                                    8           
+158      core                                     8           
+159      will                                     8           
+160      scientist                                8           
+161      selby                                    7           
+162      tool                                     7           
+163      create                                   7           
+164      every                                    7           
+165      school                                   7           
+166      statement                                7           
+167      necessary                                7           
+168      well                                     7           
+169      question                                 7           
+170      parts                                    7           
+171      those                                    7           
+172      attitude                                 7           
+173      would                                    7           
+174      literature                               7           
+175      however                                  7           
+176      example                                  7           
+177      woollard                                 6           
+178      key                                      6           
+179      both                                     6           
+180      some                                     6           
+181      write                                    6           
+182      down                                     6           
+183      life                                     6           
+184      our                                      6           
+185      make                                     6           
+186      five                                     6           
+187      application                              6           
+188      goal                                     6           
+189      combination                              6           
+190      variety                                  6           
+191      update                                   6           
+192      motion                                   6           
+193      force                                    6           
+194      appropriate                              6           
+195      support                                  6           
+196      scratch                                  6           
+197      see                                      6           
+198      article                                  6           
+199      within                                   6           
+200      sub                                      6           
+201      jeanette                                 6           
+202      logic                                    6           
+203      people                                   6           
+204      cansu                                    6           
+205      engage                                   6           
+206      mobile                                   6           
+207      stem                                     6           
+208      like                                     6           
+209      express                                  6           
+210      no                                       5           
+211      become                                   5           
+212      users                                    5           
+213      wide                                     5           
+214      task                                     5           
+215      common                                   5           
+216      along                                    5           
+217      focus                                    5           
+218      today                                    5           
+219      know                                     5           
+220      particular                               5           
+221      being                                    5           
+222      beyond                                   5           
+223      recent                                   5           
+224      early                                    5           
+225      taxonomy                                 5           
+226      large                                    5           
+227      mean                                     5           
+228      ed                                       5           
+229      creative                                 5           
+230      universal                                4           
+231      council                                  4           
+232      break                                    4           
+233      find                                     4           
+234      ng                                       4           
+235      interpret                                4           
+236      conceptual                               4           
+237      future                                   4           
+238      any                                      4           
+239      aho                                      4           
+240      riddle                                   4           
+241      point                                    4           
+242      child                                    4           
+243      therefore                                4           
+244      flow                                     4           
+245      although                                 4           
+246      able                                     4           
+247      multiple                                 4           
+248      game                                     4           
+249      same                                     4           
+250      small                                    4           
+251      because                                  4           
+252      were                                     4           
+253      curzon                                   4           
+254      between                                  4           
+255      current                                  4           
+256      tedre                                    4           
+257      com                                      4           
+258      figure                                   4           
+259      construct                                4           
+260      dr                                       4           
+261      where                                    3           
+262      methodology                              3           
+263      teacher                                  3           
+264      seymour                                  3           
+265      twenty                                   3           
+266      rst                                      3           
+267      face                                     3           
+268      emphasis                                 3           
+269      component                                3           
+270      up                                       3           
+271      word                                     3           
+272      vpython                                  3           
+273      non                                      3           
+274      constant                                 3           
+275      calculate                                3           
+276      vector                                   3           
+277      complete                                 3           
+278      routine                                  3           
+279      momentum                                 3           
+280      low                                      3           
+281      mass                                     3           
+282      object                                   3           
+283      middle                                   3           
+284      confidence                               3           
+285      without                                  3           
+286      assistance                               3           
+287      block                                    3           
+288      laid                                     3           
+289      known                                    3           
+290      time                                     3           
+291      vision                                   3           
+292      provide                                  3           
+293      type                                     3           
+294      pro                                      3           
+295      made                                     3           
+296      add                                      3           
+297      practice                                 3           
+298      bers                                     3           
+299      lee                                      3           
+300      state                                    3           
+301      error                                    3           
+302      address                                  3           
+303      his                                      3           
+304      said                                     3           
+305      kind                                     3           
+306      solu                                     3           
+307      area                                     3           
+308      kalelioglu                               3           
+309      tl                                       3           
+310      pp                                       3           
+311      secondary                                3           
+312      refer                                    3           
+313      er                                       3           
+314      ing                                      3           
+315      among                                    3           
+316      competency                               3           
+317      come                                     3           
+318      case                                     3           
+319      topic                                    3           
+320      communication                            3           
+321      upon                                     3           
+322      elementary                               3           
+323      software                                 3           
+324      notion                                   3           
+325      explore                                  3           
+326      level                                    3           
+327      stage                                    3           
+328      paradigm                                 3           
+329      sdgs                                     3           
+330      function                                 3           
+331      big                                      3           
+332      facilitate                               3           
+333      produce                                  3           
+334      idea                                     3           
+335      test                                     3           
+336      issue                                    3           
+337      generate                                 3           
+338      professor                                3           
+339      you                                      3           
+340      reason                                   2           
+341      standard                                 2           
+342      anderson                                 2           
+343      liu                                      2           
+344      description                              2           
+345      kafai                                    2           
+346      youth                                    2           
+347      haseski                                  2           
+348      code                                     2           
+349      measure                                  2           
+350      over                                     2           
+351      try                                      2           
+352      propose                                  2           
+353      highlight                                2           
+354      perform                                  2           
+355      allow                                    2           
+356      tolerance                                2           
+357      deal                                     2           
+358      open                                     2           
+359      achieve                                  2           
+360      language                                 2           
+361      place                                    2           
+362      ii                                       2           
+363      iii                                      2           
+364      technique                                2           
+365      act                                      2           
+366      lack                                     2           
+367      transform                                2           
+368      good                                     2           
+369      single                                   2           
+370      processor                                2           
+371      korkmaz                                  2           
+372      six                                      2           
+373      present                                  2           
+374      sets                                     2           
+375      taught                                   2           
+376      effec                                    2           
+377      field                                    2           
+378      list                                     2           
+379      symbol                                   2           
+380      performance                              2           
+381      before                                   2           
+382      similar                                  2           
+383      drawn                                    2           
+384      march                                    2           
+385      un                                       2           
+386      pedaste                                  2           
+387      komm                                     2           
+388      teach                                    2           
+389      assess                                   2           
+390      tang                                     2           
+391      adopt                                    2           
+392      board                                    2           
+393      mindset                                  2           
+394      require                                  2           
+395      re                                       2           
+396      view                                     2           
+397      table                                    2           
+398      self                                     2           
+399      online                                   2           
+400      build                                    2           
+401      structure                                2           
+402      college                                  2           
+403      il                                       2           
+404      dell                                     2           
+405      bocconi                                  2           
+406      umbrella                                 2           
+407      ective                                   2           
+408      arise                                    2           
+409      brought                                  2           
+410      may                                      2           
+411      lead                                     2           
+412      grade                                    2           
+413      acquire                                  2           
+414      subsequent                               2           
+415      account                                  2           
+416      serve                                    2           
+417      effect                                   2           
+418      each                                     2           
+419      course                                   2           
+420      simple                                   2           
+421      expense                                  2           
+422      bear                                     2           
+423      search                                   2           
+424      structures                               2           
+425      user                                     2           
+426      fun                                      2           
+427      context                                  2           
+428      everyday                                 2           
+429      talent                                   2           
+430      even                                     2           
+431      biology                                  2           
+432      organize                                 2           
+433      difficult                                2           
+434      domain                                   2           
+435      cas                                      2           
+436      comp                                     2           
+437      take                                     2           
+438      step                                     2           
+439      puter                                    2           
+440      now                                      2           
+441      nouri                                    2           
+442      tsai                                     2           
+443      foster                                   2           
+444      sys                                      2           
+445      two                                      2           
+446      mcowan                                   2           
+447      lot                                      2           
+448      eg                                       2           
+449      still                                    1           
+450      eval                                     1           
+451      uation                                   1           
+452      argue                                    1           
+453      ers                                      1           
+454      stu                                      1           
+455      nrc                                      1           
+456      techni                                   1           
+457      ques                                     1           
+458      hybrid                                   1           
+459      wang                                     1           
+460      voskoglou                                1           
+461      buckley                                  1           
+462      follow                                   1           
+463      original                                 1           
+464      unambiguous                              1           
+465      instruc                                  1           
+466      vallance                                 1           
+467      towndrow                                 1           
+468      proctor                                  1           
+469      combine                                  1           
+470      took                                     1           
+471      lic                                      1           
+472      adequate                                 1           
+473      socio                                    1           
+474      feel                                     1           
+475      likelihood                               1           
+476      tendency                                 1           
+477      am                                       1           
+478      fourth                                   1           
+479      fo                                       1           
+480      feedback                                 1           
+481      result                                   1           
+482      processi                                 1           
+483      somewhat                                 1           
+484      mind                                     1           
+485      here                                     1           
+486      snap                                     1           
+487      offshoot                                 1           
+488      ibid                                     1           
+489      dialogue                                 1           
+490      trend                                    1           
+491      centur                                   1           
+492      strong                                   1           
+493      excellent                                1           
+494      quick                                    1           
+495      team                                     1           
+496      cooperate                                1           
+497      labour                                   1           
+498      se                                       1           
+499      aggregate                                1           
+500      interact                                 1           
+501      theuse                                   1           
+502      analyzingdata                            1           
+503      breadth                                  1           
+504      skillset                                 1           
+505      play                                     1           
+506      likert                                   1           
+507      cronbach                                 1           
+508      alpha                                    1           
+509      ient                                     1           
+510      item                                     1           
+511      proble                                   1           
+512      change                                   1           
+513      ski                                      1           
+514      lls                                      1           
+515      curricula                                1           
+516      much                                     1           
+517      shape                                    1           
+518      sengupta                                 1           
+519      give                                     1           
+520      agree                                    1           
+521      sykora                                   1           
+522      ring                                     1           
+523      answer                                   1           
+524      book                                     1           
+525      li                                       1           
+526      ttle                                     1           
+527      earn                                     1           
+528      share                                    1           
+529      fundamentalto                            1           
+530      journal                                  1           
+531      machinery                                1           
+532      gp                                       1           
+533      target                                   1           
+534      anxiety                                  1           
+535      pair                                     1           
+536      young                                    1           
+537      prior                                    1           
+538      primary                                  1           
+539      romero                                   1           
+540      rafiq                                    1           
+541      part                                     1           
+542      art                                      1           
+543      enable                                   1           
+544      either                                   1           
+545      occur                                    1           
+546      aim                                      1           
+547      tion                                     1           
+548      half                                     1           
+549      ago                                      1           
+550      cre                                      1           
+551      ated                                     1           
+552      increasing                               1           
+553      endeavour                                1           
+554      built                                    1           
+555      app                                      1           
+556      platform                                 1           
+557      web                                      1           
+558      subject                                  1           
+559      concrete                                 1           
+560      major                                    1           
+561      relevant                                 1           
+562      robust                                   1           
+563      organization                             1           
+564      accept                                   1           
+565      workshop                                 1           
+566      third                                    1           
+567      product                                  1           
+568      logo                                     1           
+569      siamo                                    1           
+570      anche                                    1           
+571      convinti                                 1           
+572      che                                      1           
+573      prima                                    1           
+574      approssimazione                          1           
+575      significato                              1           
+576      espressione                              1           
+577      pensa                                    1           
+578      possa                                    1           
+579      essere                                   1           
+580      sufficientemente                         1           
+581      chiarito                                 1           
+582      dalla                                    1           
+583      spiegazione                              1           
+584      competenze                               1           
+585      mentali                                  1           
+586      ottenute                                 1           
+587      mediante                                 1           
+588      lo                                       1           
+589      studio                                   1           
+590      la                                       1           
+591      pratica                                  1           
+592      araujo                                   1           
+593      individual                               1           
+594      evaluate                                 1           
+595      fraillon                                 1           
+596      rapid                                    1           
+597      theoretical                              1           
+598      put                                      1           
+599      consider                                 1           
+600      employ                                   1           
+601      fagerlund                                1           
+602      albeit                                   1           
+603      mechanism                                1           
+604      situation                                1           
+605      back                                     1           
+606      izing                                    1           
+607      etc                                      1           
+608      traini                                   1           
+609      hu                                       1           
+610      man                                      1           
+611      lin                                      1           
+612      ar                                       1           
+613      main                                     1           
+614      bati                                     1           
+615      formu                                    1           
+616      def                                      1           
+617      educa                                    1           
+618      center                                   1           
+619      competence                               1           
+620      activate                                 1           
+621      memory                                   1           
+622      articulate                               1           
+623      hardware                                 1           
+624      arrange                                  1           
+625      convey                                   1           
+626      newell                                   1           
+627      accomplish                               1           
+628      alone                                    1           
+629      economic                                 1           
+630      political                                1           
+631      harmony                                  1           
+632      globe                                    1           
+633      discuss                                  1           
+634      spite                                    1           
+635      broad                                    1           
+636      scope                                    1           
+637      entail                                   1           
+638      grand                                    1           
+639      smith                                    1           
+640      kellow                                   1           
+641      park                                     1           
+642      kwon                                     1           
+643      andunderstandinghumanbehavior            1           
+644      year                                     1           
+645      yadav                                    1           
+646      correspondence                           1           
+647      capture                                  1           
+648      strategy                                 1           
+649      tc                                       1           
+650      curriculum                               1           
+651      already                                  1           
+652      yet                                      1           
+653      diverse                                  1           
+654      sort                                     1           
+655      range                                    1           
+656      zapata                                   1           
+657      elevate                                  1           
+658      turn                                     1           
+659      previous                                 1           
+660      strand                                   1           
+661      scratchjr                                1           
+662      math                                     1           
+663      appear                                   1           
+664      vast                                     1           
+665      amo                                      1           
+666      hope                                     1           
+667      elucidate                                1           
+668      biolog                                   1           
+669      sun                                      1           
+670      asbell                                   1           
+671      clarke                                   1           
+672      whole                                    1           
+673      obtain                                   1           
+674      brain                                    1           
+675      resolv                                   1           
+676      insight                                  1           
+677      explain                                  1           
+678      someone                                  1           
+679      formal                                   1           
+680      succinct                                 1           
+681      berland                                  1           
+682      wilensky                                 1           
+683      st                                       1           
+684      content                                  1           
+685      found                                    1           
+686      great                                    1           
+687      efficacy                                 1           
+688      ya                                       1           
+689      tal                                      1           
+690      perhaps                                  1           
+691      uman                                     1           
+692      message                                  1           
+693      curre                                    1           
+694      nt                                       1           
+695      shown                                    1           
+696      uting                                    1           
+697      theory                                   1           
+698      action                                   1           
+699      nsf                                      1           
+700      project                                  1           
+701      comple                                   1           
+702      ach                                      1           
+703      brainstorm                               1           
+704      offer                                    1           
+705      attempt                                  1           
+706      cycle                                    1           
+707      compete                                  1           
+708      conduct                                  1           
+709      thinki                                   1           
+710      modern                                   1           
+711      wave                                     1           
+712      detail                                   1           
+713      philosophy                               1           
+714      box                                      1           
+715      wichaya                                  1           
+716      prob                                     1           
+717      lem                                      1           
+718      nine                                     1           
+719      empower                                  1           
+720      critique                                 1           
+721      around                                   1           
+722      childhood                                1           
+723      standl                                   1           
+724      pewkam                                   1           
+725      chamrat                                  1           
+726      bruke                                    1           
+727      roadmap                                  1           
+728      uction                                   1           
+729      classroom                                1           
+730      misse                                    1           
+731      tech                                     1           
+732      nology                                   1           
+733      turhan                                   1           
+734      peracaula                                1           
+735      bosch                                    1           
+736      wit                                      1           
+737      dev                                      1           
+738      ising                                    1           
+739      certain                                  1           
+740      perseverance                             1           
+741      whereas                                  1           
+742      zha                                      1           
+743      ps                                       1           
+744      chairman                                 1           
+745      carnegie                                 1           
+746      mellon                                   1           
+747      popular                                  1           
+748      begun                                    1           
+749      correct                                  1           
+750      pd                                       1           
+751      if                                       1           
+752      age                                      1           
+753      behind                                   1           
+754      assessment                               1           
+755      entry                                    1           
+756      java                                     1           
+757      python                                   1           
+758      get                                      1           
+759      giang                                    1           
+760      student                                  1           
+761      phase                                    1           
+762      fig                                      1           
+763      hsu                                      1           
+764      constitute                               1           
+765      itself                                   1           
+766      believe                                  1           
+767      short                                    1           
+768      csizmadia                                1           
+769      bundy                                    1           
+770      reflect                                  1           
+771      effectivel                               1           
+772      base                                     1           
+773      ching                                    1           
+774      rose                                     1           
+775      variablesand                             1           
+776      falloon                                  1           
+777      ctt                                      1           
+778      makin                                    1           
+779      came                                     1           
+780      kersh                                    1           
+781      media                                    1           
+782      formula                                  1           
+783      summary                                  1           
+784      let                                      1           
+785      yi                                       1           
+786      zhen                                     1           
+787      zhou                                     1           
+788      columbia                                 1           
+789      style                                    1           
+790      activi                                   1           
+791      hand                                     1           
+792      compose                                  1           
+793      kim                                      1           
+794      chen                                     1           
+795      rea                                      1           
+796      son                                      1           
+797      seen                                     1           
+798      ics                                      1           
+799      researcher                               1           
+800      acm                                      1           
+801      bring                                    1           
+802      mainstream                               1           
+803      plan                                     1           
+804      necessitate                              1           
+805      aid                                      1           
+806      decision                                 1           
+807      initial                                  1           
+808      aspect                                   1           
+809      sense                                    1           
+810      done                                     1           
+811      always                                   1           
+812      clear                                    1           
+813      perfect                                  1           
+814      fail                                     1           
+815      failure                                  1           
+816      dig                                      1           
+817      want                                     1           
+818      told                                     1           
+819      tell                                     1           
+820      designer                                 1           
+821      kale                                     1           
+822      yuan                                     1           
+823      encompass                                1           
+824      participate                              1           
+825      handle                                   1           
+
+
+STEP 3: WORDS REMOVED AFTER STEMMING
+--------------------------------------------------------------------------------
+Total removed: 946 unique words
+Total frequency removed: 3,026
+
+Rank     Original Word                  Stemmed Word                   Frequency   
+--------------------------------------------------------------------------------
+1        thinking                       think                          294         
+2        concepts                       concept                        82          
+3        information                    inform                         39          
+4        students                       student                        39          
+5        involved                       involv                         37          
+6        ability                        abil                           37          
+7        practices                      practic                        37          
+8        defined                        defin                          34          
+9        effectively                    effective                      31          
+10       involves                       involv                         30          
+11       processing                     process                        29          
+12       education                      educ                           29          
+13       drawing                        draw                           26          
+14       generalization                 general                        25          
+15       carried                        carr                           23          
+16       steps                          step                           21          
+17       humans                         human                          19          
+18       includes                       includ                         18          
+19       cognitive                      cognit                         18          
+20       described                      describ                        18          
+21       tools                          tool                           17          
+22       scientists                     scientist                      17          
+23       expressing                     express                        16          
+24       grover                         grov                           16          
+25       proposed                       propos                         15          
+26       elements                       element                        15          
+27       simulation                     simul                          15          
+28       international                  intern                         13          
+29       learning                       learn                          13          
+30       resnick                        snick                          13          
+31       better                         bett                           13          
+32       systematic                     systemat                       13          
+33       teachers                       teacher                        12          
+34       applicable                     applic                         12          
+35       writing                        writ                           11          
+36       critical                       crit                           11          
+37       digital                        digit                          11          
+38       developed                      develop                        10          
+39       terms                          term                           10          
+40       draws                          draw                           10          
+41       contexts                       context                        10          
+42       engineering                    engineer                       10          
+43       ideas                          idea                           10          
+44       considered                     consider                       10          
+45       universally                    universal                      10          
+46       artifacts                      artifact                       9           
+47       association                    associ                         9           
+48       logical                        log                            9           
+49       researchers                    researcher                     9           
+50       defines                        defin                          9           
+51       widely                         wide                           9           
+52       later                          lat                            9           
+53       developing                     develop                        9           
+54       specific                       specif                         9           
+55       coding                         cod                            8           
+56       applied                        appl                           8           
+57       definitions                    definition                     8           
+58       states                         stat                           8           
+59       including                      includ                         8           
+60       refers                         refer                          8           
+61       related                        relat                          8           
+62       possible                       poss                           8           
+63       analyzing                      analyz                         8           
+64       required                       requir                         8           
+65       perspectives                   perspectiv                     8           
+66       important                      portant                        8           
+67       mental                         ment                           8           
+68       approaches                     approach                       8           
+69       basic                          bas                            8           
+70       further                        furth                          7           
+71       strategies                     strateg                        7           
+72       describes                      describ                        7           
+73       tasks                          task                           7           
+74       others                         other                          7           
+75       foundation                     found                          7           
+76       dimensions                     dimension                      7           
+77       global                         glob                           7           
+78       solved                         solv                           7           
+79       mathematical                   mathemat                       7           
+80       development                    develop                        7           
+81       define                         fine                           7           
+82       working                        work                           7           
+83       understood                     derstood                       6           
+84       across                         acros                          6           
+85       aspects                        aspect                         6           
+86       applying                       apply                          6           
+87       popularized                    populariz                      6           
+88       limited                        limit                          6           
+89       educational                    educ                           6           
+90       possess                        posses                         6           
+91       testing                        test                           6           
+92       activities                     activit                        6           
+93       focuses                        focus                          6           
+94       smaller                        small                          6           
+95       reading                        read                           6           
+96       arithmetic                     arithmet                       6           
+97       enables                        enabl                          6           
+98       organizing                     organiz                        6           
+99       identifying                    identify                       6           
+100      review                         view                           6           
+101      attitudes                      attitud                        6           
+102      authors                        author                         6           
+103      expressed                      express                        6           
+104      building                       build                          6           
+105      involving                      involv                         6           
+106      provided                       provid                         5           
+107      national                       nation                         5           
+108      combines                       combin                         5           
+109      procedural                     procedur                       5           
+110      tions                          tion                           5           
+111      disciplines                    disciplin                      5           
+112      principles                     principl                       5           
+113      competencies                   competenc                      5           
+114      individuals                    individual                     5           
+115      implement                      impl                           5           
+116      existing                       exist                          5           
+117      measured                       measur                         5           
+118      addition                       addi                           5           
+119      ordered                        order                          5           
+120      resources                      resourc                        5           
+121      generally                      general                        5           
+122      activity                       activ                          5           
+123      children                       childr                         5           
+124      conceptualizing                conceptualiz                   5           
+125      complements                    complement                     5           
+126      perspective                    perspect                       5           
+127      eager                          eag                            5           
+128      characteristics                characteristic                 5           
+129      stated                         stat                           5           
+130      allows                         allow                          5           
+131      encompasses                    encompass                      5           
+132      techniques                     techniqu                       5           
+133      formulation                    formul                         5           
+134      helps                          help                           5           
+135      reasoning                      reason                         5           
+136      often                          oft                            5           
+137      methods                        method                         5           
+138      mathematics                    mathematic                     5           
+139      cited                          cit                            4           
+140      interest                       inter                          4           
+141      systematically                 systematical                   4           
+142      denning                        denn                           4           
+143      technical                      techn                          4           
+144      describe                       scribe                         4           
+145      achieving                      achiev                         4           
+146      processed                      process                        4           
+147      variables                      variabl                        4           
+148      prediction                     predic                         4           
+149      included                       includ                         4           
+150      creativity                     creativ                        4           
+151      collaborative                  collaborat                     4           
+152      consensus                      consensu                       4           
+153      number                         numb                           4           
+154      confronts                      confront                       4           
+155      intelligence                   telligence                     4           
+156      fundamentally                  fundamental                    4           
+157      addresses                      address                        4           
+158      answers                        answer                         4           
+159      questions                      question                       4           
+160      social                         soc                            4           
+161      ectively                       ective                         4           
+162      presented                      present                        4           
+163      levels                         level                          4           
+164      consisting                     consist                        4           
+165      coined                         coin                           4           
+166      manageable                     manage                         4           
+167      essential                      essent                         4           
+168      seminal                        semin                          4           
+169      believed                       believ                         4           
+170      situations                     situation                      4           
+171      defining                       defin                          4           
+172      resulting                      result                         4           
+173      rather                         rath                           4           
+174      regarded                       regard                         4           
+175      utilizes                       utiliz                         4           
+176      components                     component                      4           
+177      themselves                     themselv                       4           
+178      things                         thing                          4           
+179      scores                         scor                           4           
+180      builders                       builder                        3           
+181      virtual                        virtu                          3           
+182      natural                        natur                          3           
+183      argued                         argu                           3           
+184      kinds                          kind                           3           
+185      attention                      atten                          3           
+186      years                          year                           3           
+187      typically                      typical                        3           
+188      results                        result                         3           
+189      transferring                   transferr                      3           
+190      several                        sever                          3           
+191      successfully                   successful                     3           
+192      contextualize                  contextual                     3           
+193      partially                      partial                        3           
+194      completed                      complet                        3           
+195      predicting                     predict                        3           
+196      statements                     statement                      3           
+197      ambiguity                      ambigu                         3           
+198      collaboration                  collabor                       3           
+199      reusable                       reus                           3           
+200      specifically                   specifical                     3           
+201      regarding                      regard                         3           
+202      shared                         shar                           3           
+203      merely                         mere                           3           
+204      topics                         topic                          3           
+205      viewed                         view                           3           
+206      specify                        spec                           3           
+207      technological                  technolog                      3           
+208      details                        detail                         3           
+209      discipline                     cipline                        3           
+210      accepted                       accept                         3           
+211      notions                        notion                         3           
+212      structured                     structur                       3           
+213      conditional                    condi                          3           
+214      detection                      detec                          3           
+215      means                          mean                           3           
+216      taking                         tak                            3           
+217      introduced                     introduc                       3           
+218      published                      publish                        3           
+219      efforts                        effort                         3           
+220      describing                     describ                        3           
+221      instance                       stance                         3           
+222      integration                    integr                         3           
+223      learners                       learner                        3           
+224      originally                     original                       3           
+225      suggests                       suggest                        3           
+226      habits                         habit                          3           
+227      resolution                     resolu                         3           
+228      breaking                       break                          3           
+229      scholars                       scholar                        3           
+230      blocks                         block                          3           
+231      identified                     identif                        3           
+232      reflects                       reflect                        3           
+233      errors                         error                          3           
+234      engaging                       engag                          3           
+235      studies                        stud                           3           
+236      fields                         field                          3           
+237      devices                        devic                          3           
+238      makes                          mak                            3           
+239      massachusetts                  massachusett                   3           
+240      dlcs                           dlc                            3           
+241      promoted                       promot                         3           
+242      issues                         issu                           3           
+243      expression                     expres                         3           
+244      interpreting                   interpret                      3           
+245      hunsaker                       hunsak                         3           
+246      identification                 identific                      3           
+247      suggested                      suggest                        2           
+248      generalisation                 general                        2           
+249      united                         unit                           2           
+250      indicates                      indicat                        2           
+251      recognising                    recognis                       2           
+252      surrounds                      surround                       2           
+253      applies                        appl                           2           
+254      creatively                     creative                       2           
+255      modelling                      modell                         2           
+256      credited                       credit                         2           
+257      community                      commun                         2           
+258      daily                          dai                            2           
+259      useful                         use                            2           
+260      quality                        qual                           2           
+261      collection                     collec                         2           
+262      easier                         easi                           2           
+263      believes                       believ                         2           
+264      needs                          need                           2           
+265      teaching                       teach                          2           
+266      items                          item                           2           
+267      participants                   participant                    2           
+268      foundational                   found                          2           
+269      behaviours                     behaviour                      2           
+270      proctored                      proctor                        2           
+271      assignment                     assign                         2           
+272      leveraging                     leverag                        2           
+273      having                         hav                            2           
+274      emphasises                     emphasis                       2           
+275      comprehensive                  comprehens                     2           
+276      constructed                    construct                      2           
+277      reusing                        reus                           2           
+278      remixing                       remix                          2           
+279      connecting                     connect                        2           
+280      entails                        entail                         2           
+281      comprehending                  comprehend                     2           
+282      initially                      initial                        2           
+283      conceptualize                  conceptual                     2           
+284      decom                          com                            2           
+285      position                       posi                           2           
+286      character                      charact                        2           
+287      mentioned                      mention                        2           
+288      spans                          span                           2           
+289      opportunities                  opportunit                     2           
+290      outlined                       outlin                         2           
+291      incremental                    increment                      2           
+292      adapted                        adapt                          2           
+293      recently                       recent                         2           
+294      schools                        school                         2           
+295      involve                        volve                          2           
+296      broader                        broad                          2           
+297      abilities                      abilit                         2           
+298      snyder                         snyd                           2           
+299      tively                         tive                           2           
+300      requires                       requir                         2           
+301      industry                       dustry                         2           
+302      educators                      educator                       2           
+303      transfer                       transf                         2           
+304      dealing                        deal                           2           
+305      bcomputational                 bcomput                        2           
+306      resulted                       result                         2           
+307      palts                          palt                           2           
+308      inconsistently                 inconsistent                   2           
+309      facets                         facet                          2           
+310      confusion                      confu                          2           
+311      guided                         guid                           2           
+312      wings                          wing                           2           
+313      followed                       follow                         2           
+314      interaction                    interac                        2           
+315      potential                      potent                         2           
+316      aimed                          aim                            2           
+317      response                       sponse                         2           
+318      acquisition                    acquisi                        2           
+319      stages                         stag                           2           
+320      embedding                      embedd                         2           
+321      integral                       integr                         2           
+322      designers                      designer                       2           
+323      public                         publ                           2           
+324      services                       servic                         2           
+325      operators                      operator                       2           
+326      apps                           app                            2           
+327      dispositions                   disposition                    2           
+328      pathways                       pathway                        2           
+329      colleagues                     colleagu                       2           
+330      instruction                    instruc                        2           
+331      extensive                      extens                         2           
+332      gained                         gain                           2           
+333      actions                        action                         2           
+334      revisited                      revisit                        2           
+335      oriented                       orient                         2           
+336      broadly                        broad                          2           
+337      factors                        factor                         2           
+338      recognize                      recogn                         2           
+339      thus                           thu                            2           
+340      embodies                       embod                          2           
+341      thoughts                       thought                        2           
+342      challenges                     challeng                       2           
+343      languages                      languag                        2           
+344      motivation                     motiv                          2           
+345      clarified                      clarif                         2           
+346      another                        anoth                          2           
+347      reformulate                    formulate                      2           
+348      focusing                       focus                          2           
+349      tional                         tion                           2           
+350      initiatives                    initiativ                      2           
+351      products                       product                        2           
+352      addressing                     address                        2           
+353      weber                          web                            2           
+354      received                       receiv                         2           
+355      seeks                          seek                           2           
+356      utilized                       utiliz                         2           
+357      chosen                         chos                           2           
+358      relation                       rel                            2           
+359      universality                   universal                      2           
+360      basis                          basi                           2           
+361      named                          nam                            2           
+362      formulas                       formula                        2           
+363      combining                      combin                         2           
+364      definitional                   defini                         2           
+365      properties                     propert                        2           
+366      designed                       design                         2           
+367      added                          add                            2           
+368      communicated                   communicat                     2           
+369      damental                       dament                         2           
+370      communications                 communication                  2           
+371      replicable                     replic                         2           
+372      goes                           goe                            2           
+373      department                     depart                         2           
+374      lessons                        lesson                         2           
+375      impact                         pact                           2           
+376      looking                        look                           2           
+377      valuation                      valu                           2           
+378      production                     produc                         2           
+379      training                       train                          2           
+380      section                        sec                            2           
+381      areas                          area                           2           
+382      utilize                        util                           2           
+383      consists                       consist                        2           
+384      seemingly                      seeming                        2           
+385      reduction                      reduc                          2           
+386      transformation                 transform                      2           
+387      finally                        final                          2           
+388      rules                          rul                            2           
+389      accordingly                    according                      2           
+390      informed                       inform                         2           
+391      works                          work                           2           
+392      informatics                    informatic                     2           
+393      revised                        revis                          2           
+394      experts                        expert                         2           
+395      differently                    different                      2           
+396      discussed                      discuss                        2           
+397      university                     univers                        2           
+398      courses                        cours                          2           
+399      machines                       machin                         2           
+400      completion                     comple                         2           
+401      taken                          tak                            2           
+402      classes                        class                          2           
+403      explaining                     explain                        2           
+404      recognizing                    recogniz                       2           
+405      tems                           tem                            2           
+406      artificial                     artific                        2           
+407      addressed                      address                        2           
+408      choosing                       choos                          2           
+409      explicitly                     explicit                       2           
+410      instead                        stead                          2           
+411      complicated                    complicat                      2           
+412      isolation                      isol                           2           
+413      operationalization             operational                    2           
+414      linked                         link                           1           
+415      constructs                     construct                      1           
+416      transferred                    transferr                      1           
+417      subjects                       subject                        1           
+418      dents                          dent                           1           
+419      explained                      explain                        1           
+420      andartificial                  andartific                     1           
+421      characterizes                  characteriz                    1           
+422      selected                       select                         1           
+423      repre                          pre                            1           
+424      sented                         sent                           1           
+425      constrictive                   constrict                      1           
+426      sparked                        spark                          1           
+427      stating                        stat                           1           
+428      ithms                          ithm                           1           
+429      detailed                       detail                         1           
+430      interpreted                    interpret                      1           
+431      guzdial                        guzd                           1           
+432      updates                        updat                          1           
+433      formally                       formal                         1           
+434      introducing                    introduc                       1           
+435      separating                     separat                        1           
+436      gathering                      gather                         1           
+437      adding                         add                            1           
+438      vital                          vit                            1           
+439      interconnections               interconnection                1           
+440      recognized                     recogniz                       1           
+441      emphasized                     emphasiz                       1           
+442      behavioral                     behavior                       1           
+443      simpler                        simpl                          1           
+444      emerged                        emerg                          1           
+445      rmulating                      rmulat                         1           
+446      regulated                      regulat                        1           
+447      metacognitive                  metacognit                     1           
+448      utilization                    util                           1           
+449      aims                           aim                            1           
+450      susceptible                    suscept                        1           
+451      disseminate                    seminate                       1           
+452      surveyed                       survey                         1           
+453      formulated                     formulat                       1           
+454      changed                        chang                          1           
+455      presenting                     present                        1           
+456      continues                      continu                        1           
+457      receive                        rece                           1           
+458      consideration                  consider                       1           
+459      composition                    composi                        1           
+460      capabilities                   capabilit                      1           
+461      remains                        remain                         1           
+462      debatable                      debat                          1           
+463      consensual                     consensu                       1           
+464      proposal                       propos                         1           
+465      resorting                      resort                         1           
+466      takes                          tak                            1           
+467      discussion                     discus                         1           
+468      excerpts                       excerpt                        1           
+469      contained                      contain                        1           
+470      providing                      provid                         1           
+471      strengths                      strength                       1           
+472      olving                         olv                            1           
+473      citizens                       citizen                        1           
+474      succeed                        succe                          1           
+475      advances                       advanc                         1           
+476      despite                        spite                          1           
+477      traditionally                  traditional                    1           
+478      reformulated                   reformulat                     1           
+479      besides                        besid                          1           
+480      generating                     generat                        1           
+481      members                        member                         1           
+482      closely                        close                          1           
+483      division                       divi                           1           
+484      utilise                        util                           1           
+485      elapsed                        elaps                          1           
+486      commonly                       common                         1           
+487      recommendations                recommendation                 1           
+488      collecting                     collect                        1           
+489      evolution                      evolu                          1           
+490      empowering                     empower                        1           
+491      enriching                      enrich                         1           
+492      visuals                        visual                         1           
+493      depth                          pth                            1           
+494      environments                   environment                    1           
+495      suited                         suit                           1           
+496      ctls                           ctl                            1           
+497      coeffic                        coeff                          1           
+498      calculated                     calculat                       1           
+499      adapting                       adapt                          1           
+500      integrating                    integrat                       1           
+501      gramming                       gramm                          1           
+502      increasingly                   increasing                     1           
+503      argues                         argu                           1           
+504      icils                          icil                           1           
+505      structuring                    structur                       1           
+506      manipulating                   manipulat                      1           
+507      requiring                      requir                         1           
+508      constitutes                    constitut                      1           
+509      academics                      academic                       1           
+510      failed                         fail                           1           
+511      descriptions                   description                    1           
+512      eventually                     eventual                       1           
+513      integrate                      tegrate                        1           
+514      classrooms                     classroom                      1           
+515      creates                        creat                          1           
+516      runnable                       runn                           1           
+517      appears                        appear                         1           
+518      mindstorms                     mindstorm                      1           
+519      ordering                       order                          1           
+520      generalising                   generalis                      1           
+521      expanded                       expand                         1           
+522      disesssa                       esssa                          1           
+523      behaviors                      behavior                       1           
+524      complexity                     complex                        1           
+525      comes                          com                            1           
+526      relaunched                     relaunch                       1           
+527      revived                        reviv                          1           
+528      influential                    influent                       1           
+529      derstanding                    derstand                       1           
+530      guidelines                     guidelin                       1           
+531      standards                      standard                       1           
+532      entitled                       entitl                         1           
+533      solely                         sole                           1           
+534      mphasise                       mphas                          1           
+535      interactive                    interact                       1           
+536      reducing                       reduc                          1           
+537      numerous                       numer                          1           
+538      denote                         note                           1           
+539      simplifying                    simplify                       1           
+540      transposing                    transpos                       1           
+541      employs                        employ                         1           
+542      fundamentals                   fundamental                    1           
+543      serves                         serv                           1           
+544      accessible                     access                         1           
+545      simultaneously                 simultaneous                   1           
+546      comparable                     compar                         1           
+547      confronting                    confront                       1           
+548      difficulties                   difficult                      1           
+549      scientific                     scientif                       1           
+550      offers                         offer                          1           
+551      opportunity                    opportun                       1           
+552      cess                           ces                            1           
+553      grammed                        gramm                          1           
+554      resolved                       resolv                         1           
+555      places                         plac                           1           
+556      majority                       major                          1           
+557      rstly                          rst                            1           
+558      introduction                   introduc                       1           
+559      decades                        decad                          1           
+560      posits                         posit                          1           
+561      influences                     influenc                       1           
+562      inventor                       ventor                         1           
+563      applications                   application                    1           
+564      screen                         scre                           1           
+565      interface                      terface                        1           
+566      displayed                      display                        1           
+567      questioning                    question                       1           
+568      socializing                    socializ                       1           
+569      paced                          pac                            1           
+570      examples                       exampl                         1           
+571      scaffolded                     scaffold                       1           
+572      produced                       produc                         1           
+573      professionals                  professional                   1           
+574      categorizes                    categoriz                      1           
+575      categories                     categor                        1           
+576      traction                       trac                           1           
+577      practical                      pract                          1           
+578      theoretically                  theoretical                    1           
+579      issued                         issu                           1           
+580      conjunction                    conjunc                        1           
+581      transferability                transferabil                   1           
+582      synthesis                      synthesi                       1           
+583      papers                         paper                          1           
+584      evaluations                    evaluation                     1           
+585      concluded                      conclud                        1           
+586      correction                     correc                         1           
+587      projects                       project                        1           
+588      views                          view                           1           
+589      gestures                       gestur                         1           
+590      promulgated                    promulgat                      1           
+591      uential                        uent                           1           
+592      synthesized                    synthesiz                      1           
+593      associated                     associat                       1           
+594      rooted                         root                           1           
+595      comprises                      compris                        1           
+596      informatico                    formatico                      1           
+597      referenziale                   ferenziale                     1           
+598      insieme                        sieme                          1           
+599      delle                          lle                            1           
+600      informatica                    formatica                      1           
+601      speaking                       speak                          1           
+602      procuring                      procur                         1           
+603      resource                       source                         1           
+604      supporting                     support                        1           
+605      tinker                         tink                           1           
+606      until                          til                            1           
+607      builds                         build                          1           
+608      needed                         need                           1           
+609      underlying                     underly                        1           
+610      mechanisms                     mechanism                      1           
+611      technologies                   technolog                      1           
+612      intellectual                   intellectu                     1           
+613      multidimensional               multidimension                 1           
+614      available                      avail                          1           
+615      decided                        decid                          1           
+616      focused                        focus                          1           
+617      integrated                     integrat                       1           
+618      papadakis                      papadaki                       1           
+619      studied                        stud                           1           
+620      organise                       organ                          1           
+621      frequently                     frequent                       1           
+622      cooperative                    cooperat                       1           
+623      unraveling                     unravel                        1           
+624      skillfully                     skillful                       1           
+625      conquer                        conqu                          1           
+626      intricate                      tricate                        1           
+627      stephensen                     stephens                       1           
+628      sues                           sue                            1           
+629      translation                    transl                         1           
+630      aiots                          aiot                           1           
+631      investigated                   investigat                     1           
+632      robotics                       robotic                        1           
+633      hypothesizing                  hypothesiz                     1           
+634      inventory                      ventory                        1           
+635      intrinsic                      intrins                        1           
+636      enjoyment                      enjoy                          1           
+637      predictors                     predictor                      1           
+638      characterised                  characteris                    1           
+639      objective                      object                         1           
+640      especiallyfollowingjeannettewing especiallyfollowingjeannettew  1           
+641      sfoundational                  sfound                         1           
+642      lating                         lat                            1           
+643      precise                        prec                           1           
+644      inition                        ini                            1           
+645      placed                         plac                           1           
+646      expected                       expect                         1           
+647      prepare                        pare                           1           
+648      connections                    connection                     1           
+649      uncertainty                    certainty                      1           
+650      making                         mak                            1           
+651      comprehensibly                 comprehensib                   1           
+652      performing                     perform                        1           
+653      selecting                      select                         1           
+654      moreover                       moreov                         1           
+655      managing                       manag                          1           
+656      communicating                  communicat                     1           
+657      interacting                    interact                       1           
+658      capacity                       capac                          1           
+659      faber                          fab                            1           
+660      derives                        deriv                          1           
+661      thereafter                     thereaft                       1           
+662      increase                       crease                         1           
+663      environmental                  environment                    1           
+664      local                          loc                            1           
+665      tackles                        tackl                          1           
+666      localities                     localit                        1           
+667      sustainable                    sustain                        1           
+668      goals                          goal                           1           
+669      nations                        nation                         1           
+670      immediate                      mediate                        1           
+671      ambitious                      ambit                          1           
+672      targets                        target                         1           
+673      demonstrate                    monstrate                      1           
+674      applicability                  applicabil                     1           
+675      does                           doe                            1           
+676      turing                         tur                            1           
+677      postulated                     postulat                       1           
+678      mimic                          mim                            1           
+679      compatible                     compat                         1           
+680      emphasizes                     emphasiz                       1           
+681      importance                     portance                       1           
+682      pedagogical                    pedagog                        1           
+683      designingsystems               designingsystem                1           
+684      bydrawing                      bydraw                         1           
+685      yadavetal                      yadavet                        1           
+686      thementalprocessforabstraction thementalprocessforabstrac     1           
+687      creation                       cre                            1           
+688      instructors                    instructor                     1           
+689      intentionally                  intentional                    1           
+690      highlighted                    highlight                      1           
+691      honors                         honor                          1           
+692      circuits                       circuit                        1           
+693      ones                           one                            1           
+694      algebraic                      algebra                        1           
+695      derive                         der                            1           
+696      vastly                         vast                           1           
+697      feasible                       feas                           1           
+698      renders                        render                         1           
+699      infeasible                     infeas                         1           
+700      massive                        mass                           1           
+701      engines                        engin                          1           
+702      networks                       network                        1           
+703      skillsets                      skillset                       1           
+704      latter                         latt                           1           
+705      redesign                       design                         1           
+706      characterizations              characterization               1           
+707      exists                         exist                          1           
+708      unambiguously                  unambiguous                    1           
+709      resolving                      resolv                         1           
+710      independent                    dependent                      1           
+711      utilizing                      utiliz                         1           
+712      referred                       referr                         1           
+713      leads                          lead                           1           
+714      domains                        domain                         1           
+715      stressed                       stress                         1           
+716      handled                        handl                          1           
+717      caceres                        cacer                          1           
+718      expectations                   expectation                    1           
+719      engagement                     engag                          1           
+720      organizations                  organization                   1           
+721      identifies                     identif                        1           
+722      music                          mus                            1           
+723      debate                         bate                           1           
+724      contribution                   contribu                       1           
+725      unts                           unt                            1           
+726      proteins                       protein                        1           
+727      changing                       chang                          1           
+728      ists                           ist                            1           
+729      refined                        refin                          1           
+730      emphasizing                    emphasiz                       1           
+731      whether                        wheth                          1           
+732      combinations                   combination                    1           
+733      follows                        follow                         1           
+734      values                         valu                           1           
+735      device                         vice                           1           
+736      materials                      material                       1           
+737      meaning                        mean                           1           
+738      actionable                     action                         1           
+739      mated                          mat                            1           
+740      established                    establish                      1           
+741      covers                         cover                          1           
+742      diversity                      divers                         1           
+743      looks                          look                           1           
+744      beginning                      beginn                         1           
+745      assessments                    assessment                     1           
+746      playing                        play                           1           
+747      fosters                        foster                         1           
+748      allowing                       allow                          1           
+749      fundamen                       fundam                         1           
+750      posited                        posit                          1           
+751      reformulating                  reformulat                     1           
+752      ormulating                     ormulat                        1           
+753      necessitates                   necessitat                     1           
+754      purposes                       purpos                         1           
+755      presentation                   present                        1           
+756      funded                         fund                           1           
+757      initiate                       itiate                         1           
+758      thinkers                       thinker                        1           
+759      divides                        divid                          1           
+760      looked                         look                           1           
+761      individually                   individual                     1           
+762      considering                    consider                       1           
+763      previously                     previous                       1           
+764      ignoring                       ignor                          1           
+765      irrelevant                     relevant                       1           
+766      empowers                       empower                        1           
+767      solvers                        solver                         1           
+768      enabling                       enabl                          1           
+769      referenced                     referenc                       1           
+770      converting                     convert                        1           
+771      higher                         high                           1           
+772      summaris                       summari                        1           
+773      ncies                          nci                            1           
+774      relevance                      levance                        1           
+775      portrayed                      portray                        1           
+776      teachable                      teach                          1           
+777      disjoining                     disjoin                        1           
+778      exclusivity                    exclusiv                       1           
+779      puts                           put                            1           
+780      generated                      generat                        1           
+781      implies                        impl                           1           
+782      removing                       remov                          1           
+783      unnecessary                    necessary                      1           
+784      formatting                     formatt                        1           
+785      coming                         com                            1           
+786      insights                       insight                        1           
+787      unique                         ique                           1           
+788      features                       featur                         1           
+789      innovative                     innovat                        1           
+790      outside                        side                           1           
+791      summarized                     summariz                       1           
+792      discourse                      course                         1           
+793      equity                         equ                            1           
+794      burgeoning                     burgeon                        1           
+795      planning                       plann                          1           
+796      omputational                   omput                          1           
+797      synthesizes                    synthesiz                      1           
+798      ritter                         ritt                           1           
+799      expressive                     express                        1           
+800      varied                         var                            1           
+801      provides                       provid                         1           
+802      instr                          str                            1           
+803      demystify                      demyst                         1           
+804      puters                         puter                          1           
+805      reigniting                     reignit                        1           
+806      facing                         fac                            1           
+807      captured                       captur                         1           
+808      generations                    generation                     1           
+809      ycharis                        ychari                         1           
+810      agreed                         agre                           1           
+811      reinterpret                    interpret                      1           
+812      disassembly                    disassemb                      1           
+813      incorporate                    corporate                      1           
+814      thinks                         think                          1           
+815      similarities                   similarit                      1           
+816      employing                      employ                         1           
+817      devise                         dev                            1           
+818      intelligent                    telligent                      1           
+819      workshops                      workshop                       1           
+820      familiarize                    familiar                       1           
+821      investigate                    vestigate                      1           
+822      inquiry                        quiry                          1           
+823      exhibited                      exhibit                        1           
+824      exploring                      explor                         1           
+825      engineered                     engineer                       1           
+826      inverse                        verse                          1           
+827      introduce                      troduce                        1           
+828      mindreader                     mindread                       1           
+829      disciplinary                   ciplinary                      1           
+830      specified                      specif                         1           
+831      jobs                           job                            1           
+832      composing                      compos                         1           
+833      collected                      collect                        1           
+834      games                          gam                            1           
+835      jams                           jam                            1           
+836      supports                       support                        1           
+837      reflection                     reflec                         1           
+838      creating                       creat                          1           
+839      persevering                    persever                       1           
+840      evoked                         evok                           1           
+841      chevalier                      chevali                        1           
+842      ccps                           ccp                            1           
+843      observations                   observation                    1           
+844      helped                         help                           1           
+845      discover                       discov                         1           
+846      ended                          end                            1           
+847      capability                     capabil                        1           
+848      connected                      connect                        1           
+849      conceptualization              conceptual                     1           
+850      founding                       found                          1           
+851      nucleus                        nucleu                         1           
+852      constitutive                   constitut                      1           
+853      transversal                    transvers                      1           
+854      competences                    competenc                      1           
+855      encounters                     encounter                      1           
+856      furber                         furb                           1           
+857      concise                        conc                           1           
+858      surrounding                    surround                       1           
+859      clearly                        clear                          1           
+860      manner                         mann                           1           
+861      snider                         snid                           1           
+862      modified                       modif                          1           
+863      triggers                       trigger                        1           
+864      events                         event                          1           
+865      measurable                     measur                         1           
+866      namely                         name                           1           
+867      functions                      function                       1           
+868      nesting                        nest                           1           
+869      tackling                       tackl                          1           
+870      articles                       articl                         1           
+871      exploits                       exploit                        1           
+872      prevention                     preven                         1           
+873      heuristic                      heurist                        1           
+874      words                          word                           1           
+875      brings                         bring                          1           
+876      types                          typ                            1           
+877      workspaces                     workspac                       1           
+878      forms                          form                           1           
+879      webster                        webst                          1           
+880      concerned                      concern                        1           
+881      central                        centr                          1           
+882      simplification                 simplific                      1           
+883      says                           say                            1           
+884      highly                         high                           1           
+885      encompassing                   encompass                      1           
+886      ties                           tie                            1           
+887      basically                      basical                        1           
+888      subtasks                       subtask                        1           
+889      correctness                    correct                        1           
+890      trying                         try                            1           
+891      quantification                 quantific                      1           
+892      reductionism                   ductionism                     1           
+893      problematic                    problemat                      1           
+894      epistemic                      epistem                        1           
+895      tractable                      tract                          1           
+896      tension                        ten                            1           
+897      inappropriate                  appropriate                    1           
+898      logics                         logic                          1           
+899      findings                       finding                        1           
+900      indicate                       dicate                         1           
+901      phys                           phy                            1           
+902      ideal                          ide                            1           
+903      spaces                         spac                           1           
+904      pillars                        pillar                         1           
+905      attempts                       attempt                        1           
+906      structural                     structur                       1           
+907      specialized                    specializ                      1           
+908      proper                         prop                           1           
+909      justification                  justific                       1           
+910      numeric                        numer                          1           
+911      utational                      uta                            1           
+912      popularis                      populari                       1           
+913      encourages                     encourag                       1           
+914      promotes                       promot                         1           
+915      sees                           see                            1           
+916      labelled                       labell                         1           
+917      equipped                       equipp                         1           
+918      classify                       class                          1           
+919      investigation                  investig                       1           
+920      reproduces                     reproduc                       1           
+921      fixes                          fix                            1           
+922      mostly                         most                           1           
+923      kids                           kid                            1           
+924      resilience                     silience                       1           
+925      getting                        gett                           1           
+926      resilient                      silient                        1           
+927      fixing                         fix                            1           
+928      seeing                         see                            1           
+929      willing                        will                           1           
+930      deeper                         deep                           1           
+931      beneficial                     benefic                        1           
+932      equally                        equal                          1           
+933      valuable                       valu                           1           
+934      reused                         reus                           1           
+935      troubleshooting                troubleshoot                   1           
+936      functional                     func                           1           
+937      framings                       framing                        1           
+938      communities                    communit                       1           
+939      interdisciplinary              terdisciplinary                1           
+940      teams                          team                           1           
+941      imagine                        agine                          1           
+942      possibilities                  possibilit                     1           
+943      inclusive                      inclus                         1           
+944      decisions                      decision                       1           
+945      insociety                      society                        1           
+946      empowerment                    empower                        1           
+
+
+================================================================================
+SUMMARY
+================================================================================
+Total unique words removed in Step 2: 825
+Total unique words removed in Step 3: 946
+Total frequency removed in Step 2: 9,187
+Total frequency removed in Step 3: 3,026
+Grand total frequency removed: 12,213
